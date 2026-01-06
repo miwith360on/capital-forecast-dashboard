@@ -33,7 +33,7 @@ To track actual vs. forecasted capital spending, analyze performance by departme
 Boeing Entry-Level Financial Analyst role  
 Job ID: JR2025489498  
 Location: Ridley Park, Pennsylvania
-<img width="1690" height="923" alt="image" src="https://github.com/user-attachments/assets/3d176ecf-44e5-4dd5-8891-9231592c86a1" />
 
 ## 📸 Screenshots
-![Dashboard Preview](images/dashboard_preview.png)
+<img width="1690" height="923" alt="image" src="https://github.com/user-attachments/assets/469201cd-50c6-40f7-ad7c-08d926c2fe5c" />
+
